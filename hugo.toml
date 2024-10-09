@@ -89,7 +89,7 @@ paginate = 6
   name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
   message = "{Saya {menggunakan|memanfaatkan|memakai} pagar panel beton dari precast.bangunan.co untuk {proyek|pembangunan|konstruksi} rumah saya. Kualitasnya {sangat baik|luar biasa|menakjubkan} dan pemasangannya {rapi|tertata|bersih}.|Pagar panel beton dari precast.bangunan.co {berkualitas tinggi|premium|kuat} dan pemasangannya {sangat rapi|baik sekali|terorganisir}.}"
   response = "{Terima kasih atas {kepercayaan|dukungan|pilihan} Anda! Kami senang dapat {menyediakan|menghadirkan|memenuhi} produk beton berkualitas untuk {proyek|pembangunan} Anda.|Kami {sangat menghargai|berterima kasih atas} kepercayaan Anda. Senang dapat berkontribusi dalam proyek Anda!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
@@ -103,7 +103,7 @@ paginate = 6
   name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad}"
   message = "{Panel beton dari precast.bangunan.co {sangat kokoh|kuat|berkualitas} dan {cocok|sesuai|ideal} untuk proyek {perumahan|real estate|properti} saya. Proses pengirimannya juga {cepat|tepat waktu|efisien} dan {lancar|terorganisir|tepat}.|Beton precast.bangunan.co {kokoh|kuat} dan sesuai dengan kebutuhan proyek saya. Pengirimannya {tepat waktu|cepat|lancar} dan tanpa kendala.}"
   response = "{Terima kasih! Kami {berkomitmen|fokus|dedikasi} untuk menyediakan produk beton berkualitas dengan {layanan|pengiriman} terbaik.|Kami {apresiasi|menghargai} ulasan Anda. Terima kasih atas {kepercayaan|pilihan} Anda menggunakan produk kami!}"
-  rating = 4.6
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
@@ -124,7 +124,7 @@ paginate = 6
   name = "{Eko|Agus|Dedi|Toni|Yanto|Wawan|Benny|Rio|Iwan|Galih}"
   message = "{Buis beton dari precast.bangunan.co {sangat sesuai|tepat|cocok} dengan {spesifikasi|standar|kebutuhan} proyek {saluran air|infrastruktur|pembangunan} yang saya kerjakan. Pengirimannya {cepat|tepat waktu|aman} dan {lancar|terorganisir|sesuai jadwal}.|Saya puas dengan {produk|buis beton} precast.bangunan.co untuk proyek saluran air saya. Pengirimannya {cepat|tepat waktu|lancar} dan {sesuai harapan|memenuhi ekspektasi|aman}.}"
   response = "{Kami {senang|bahagia|gembira} mendengar bahwa Anda puas dengan {produk|layanan} kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah {mempercayai|memilih|menggunakan} produk kami. Kami {senang|gembira} Anda puas dengan hasilnya.}"
-  rating = 4.9
+  rating = 4
 
 [[params.tabelItems]]
   name = "Pagar Panel Beton Pracetak"
