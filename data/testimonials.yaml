@@ -1,56 +1,53 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Budi
     message: >-
-      Pagar panel beton dari precast.bangunan.co premium dan pemasangannya baik
-      sekali.
+      Saya memanfaatkan pagar panel beton dari precast.bangunan.co untuk
+      konstruksi rumah saya. Kualitasnya sangat baik dan pemasangannya bersih.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Senang dapat berkontribusi dalam
-      proyek Anda!
+      Terima kasih atas dukungan Anda! Kami senang dapat menyediakan produk
+      beton berkualitas untuk proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
     name: Fitri
     message: >-
-      precast.bangunan.co sangat membantu dalam memilih panel beton untuk proyek
-      saya. Produk yang dikirim berkualitas tinggi dan sesuai dengan kebutuhan
-      saya.
+      precast.bangunan.co mengarahkan dalam memilih panel beton untuk proyek
+      saya. Produk yang dikirim bermutu dan sesuai dengan kebutuhan saya.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
-      dengan panel beton dari kami.
+      Terima kasih atas ulasan Anda! Kami gembira Anda puas dengan layanan dan
+      produk kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Joko
+    name: Faisal
     message: >-
-      Panel beton dari precast.bangunan.co berkualitas dan sesuai untuk proyek
-      perumahan saya. Proses pengirimannya juga tepat waktu dan tepat.
+      Beton precast.bangunan.co kokoh dan sesuai dengan kebutuhan proyek saya.
+      Pengirimannya cepat dan tanpa kendala.
     response: >-
-      Terima kasih! Kami fokus untuk menyediakan produk beton berkualitas dengan
-      pengiriman terbaik.
+      Kami menghargai ulasan Anda. Terima kasih atas kepercayaan Anda
+      menggunakan produk kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Gani
+    name: Dian
     message: >-
-      Buis beton precast.bangunan.co berkualitas tinggi dan tahan lama untuk
-      proyek yang saya kerjakan.
+      Buis beton precast.bangunan.co sangat kuat dan tahan lama untuk proyek
+      yang saya kerjakan.
     response: >-
-      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
-      pilihannya!
+      Kami bahagia Anda puas dengan layanan dan produk kami. Terima kasih atas
+      kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Lina
+    name: Siti
     message: >-
-      Pelayanan precast.bangunan.co luar biasa. Produk pagar panel beton yang
-      dikirim berkualitas tinggi dan sesuai dengan ekspektasi.
-    response: >-
-      Terima kasih! Kami senang dapat melayani proyek Anda dengan produk
-      terbaik.
+      Pelayanan precast.bangunan.co baik sekali. Produk pagar panel beton yang
+      dikirim berkualitas tinggi dan sesuai dengan harapan.
+    response: Kami menghargai masukan Anda. Terima kasih telah memilih produk kami!
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Dedi
+    name: Agus
     message: >-
-      Saya puas dengan produk precast.bangunan.co untuk proyek saluran air saya.
-      Pengirimannya cepat dan sesuai harapan.
+      Buis beton dari precast.bangunan.co cocok dengan standar proyek
+      pembangunan yang saya kerjakan. Pengirimannya cepat dan lancar.
     response: >-
-      Kami bahagia mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas ulasannya!
+      Terima kasih telah mempercayai produk kami. Kami senang Anda puas dengan
+      hasilnya.
     rating: 4
